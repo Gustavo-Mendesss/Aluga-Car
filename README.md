@@ -110,57 +110,29 @@ interessados em alugar veículos.
 
 ### Perfil 1 – Proprietário do veículo
 
+**Descrição:**  
+Pessoa que possui um veículo e deseja disponibilizá-lo para locação por meio da plataforma. Pode cadastrar informações do veículo, definir valores e períodos disponíveis e acompanhar as solicitações de aluguel.
 
-                                       
-                                                                     Descrição: 
- 
-      Pessoa que possui um veículo e deseja disponibilizá-lo para locação por meio da plataforma. 
-Pode cadastrar informações do veículo, definir valores e períodos disponíveis e acompanhar as 
-solicitações de aluguel. 
- 
-                                                                   Necessidades: 
- 
-   Cadastrar e gerenciar veículos; informar disponibilidade e valores; receber e analisar 
-solicitações; acompanhar locações; consultar informações dos usuários; ter segurança e 
-transparência durante as negociações. 
-
+**Necessidades:**  
+Cadastrar e gerenciar veículos; informar disponibilidade e valores; receber e analisar solicitações; acompanhar locações; consultar informações dos usuários; ter segurança e transparência durante as negociações.
 
 
 ### Perfil 2 – Locatário
 
+**Descrição:**  
+Pessoa que necessita de um veículo por determinado período e utiliza a plataforma para pesquisar, comparar e solicitar a locação de veículos disponíveis. Pode utilizar o veículo para necessidades pessoais, profissionais ou trabalho com aplicativos.
 
-                                                          Descrição: 
- 
-     Pessoa que necessita de um veículo por determinado período e utiliza a plataforma para 
-pesquisar, comparar e solicitar a locação de veículos disponíveis. Pode utilizar o veículo para 
-necessidades pessoais, profissionais ou trabalho com aplicativos. 
- 
-                                                           Necessidades: 
- 
-      Pesquisar veículos disponíveis; visualizar informações, valores e condições; comparar 
-opções; realizar solicitações de locação; acompanhar reservas; ter acesso a informações 
-claras sobre o veículo e as condições do aluguel. 
+**Necessidades:**  
+Pesquisar veículos disponíveis; visualizar informações, valores e condições; comparar opções; realizar solicitações de locação; acompanhar reservas; ter acesso a informações claras sobre o veículo e as condições do aluguel.
 
 
- 
 ### Perfil 3 – Administrador do sistema
 
+**Descrição:**  
+Responsável pelo gerenciamento e acompanhamento da plataforma. Possui acesso às informações necessárias para administrar usuários, veículos, anúncios e locações, garantindo o funcionamento adequado do sistema.
 
-                  
-                                                                      Descrição: 
- 
-   Responsável pelo gerenciamento e acompanhamento da plataforma. Possui acesso às 
-informações necessárias para administrar usuários, veículos, anúncios e locações, garantindo o 
-funcionamento adequado do sistema. 
- 
-                                                                     Necessidades: 
- 
-   Gerenciar usuários e veículos cadastrados; acompanhar locações; verificar informações e 
-ocorrências; administrar conteúdo da plataforma; identificar problemas e garantir o funcionamento e 
-a segurança do sistema.
-
-
-
+**Necessidades:**  
+Gerenciar usuários e veículos cadastrados; acompanhar locações; verificar informações e ocorrências; administrar conteúdo da plataforma; identificar problemas e garantir o funcionamento e a segurança do sistema.
 
 ## 2.2 Histórias de Usuários
 
