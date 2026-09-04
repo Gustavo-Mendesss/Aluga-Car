@@ -432,6 +432,32 @@ https://www.abla.com.br/noticia/setor-de-locacao-de-veiculos-seguiu-em-crescimen
 durante-o-ultimo-ano--. Acesso em: 20 ago. 2026.
 
 
+## 3. Metodologia
+
+### 3.1 Divisão de papéis
+
+Victor De Aquino Gomes Miguel: documentação e levantamento de requisitos.
+Gustavo Mendes Da Silva - Jeferson Oliveira Santos: desenvolvimento da interface e protótipo.
+Nathaly Nagem Araújo - Nicolas Brian Silva Bueno Horta: elaboração dos User Flows e organização do GitHub.
+Vinicius Gabriel Vaz Lomba: revisão da documentação e testes.
+
+### 3.2 Processo
+
+O desenvolvimento do projeto Aluga-Car será realizado de forma colaborativa, dividido em etapas. Inicialmente, a equipe realizará o levantamento e a análise do problema e dos requisitos. Em seguida, serão elaborados os fluxos de navegação e o protótipo da solução. Após a definição da interface, a equipe realizará a implementação e os testes da aplicação. Durante o desenvolvimento, serão realizadas reuniões para acompanhar o progresso, identificar problemas e revisar as atividades realizadas.
+
+Simplificando:
+
+Levantamento → Requisitos → User Flow → Protótipo → Desenvolvimento → Testes → Revisão
+
+### 3.3 Ferramentas
+
+GitHub: armazenamento do projeto, controle de versões e documentação.
+Canva: criação de apresentações, diagramas e materiais visuais.
+Figma: elaboração dos protótipos e interfaces.
+Visual Studio Code: desenvolvimento e edição dos códigos.
+Microsoft Teams: comunicação e reuniões da equipe.
+
+
 ## 4. Projeto de Interface
 
 ### 4.1 User Flow
