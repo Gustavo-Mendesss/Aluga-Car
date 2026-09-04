@@ -441,16 +441,16 @@ O User Flow apresenta o fluxo de navegação dos usuários dentro da solução A
 
 #### Fluxo do usuário que deseja alugar
 
-![User Flow - Usuário que deseja alugar](fuserflow-alugar.png)
+![User Flow - Usuário que deseja alugar](images/fuserflow-alugar.png)
 
 #### Fluxo do proprietário do veículo
 
-![User Flow - Proprietário do veículo](userflow-proprietario..png)
+![User Flow - Proprietário do veículo](images/userflow-proprietario..png)
 
 ## Wireframe
 
 A seguir é apresentado o wireframe da interface principal do sistema Aluga-Car, demonstrando a organização dos principais elementos e funcionalidades da plataforma.
 
-![Wireframe do Aluga-Car](wireframe-aluga-car.png)
+![Wireframe Aluga-Car](images/wireframe-aluga-car.png)
 
 
