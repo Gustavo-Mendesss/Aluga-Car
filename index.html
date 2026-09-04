@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Aluga-Car</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Ícones -->
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    >
+</head>
+
+<body>
+
+    <div class="pagina">
+
+        <!-- =========================
+             MENU LATERAL
+        ========================== -->
+        <aside class="sidebar">
+
+            <div class="logo">
+                <i class="fa-solid fa-car-side"></i>
+                <span>ALUGA-CAR</span>
+            </div>
+
+            <nav class="menu">
+
+                <a href="#" class="ativo">
+                    <i class="fa-solid fa-house"></i>
+                    Início
+                </a>
+
+                <a href="#">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    Buscar carros
+                </a>
+
+                <a href="#">
+                    <i class="fa-regular fa-calendar"></i>
+                    Meus aluguéis
+                </a>
+
+                <a href="#">
+                    <i class="fa-regular fa-heart"></i>
+                    Favoritos
+                </a>
+
+                <a href="#">
+                    <i class="fa-regular fa-comment-dots"></i>
+                    Mensagens
+                </a>
+
+                <a href="#">
+                    <i class="fa-regular fa-star"></i>
+                    Avaliações
+                </a>
+
+                <a href="#">
+                    <i class="fa-regular fa-credit-card"></i>
+                    Pagamentos
+                </a>
+
+                <a href="#">
+                    <i class="fa-regular fa-bell"></i>
+                    Notificações
+                </a>
+
+                <a href="#">
+                    <i class="fa-solid fa-gear"></i>
+                    Configurações
+                </a>
+
+                <a href="#">
+                    <i class="fa-regular fa-circle-question"></i>
+                    Ajuda e suporte
+                </a>
+
+            </nav>
+
+            <div class="sair">
+                <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                Sair da conta
+            </div>
+
+            <div class="seguranca">
+
+                <div class="seguranca-icone">
+                    <i class="fa-solid fa-shield-halved"></i>
+                </div>
+
+                <h3>
+                    Alugue com segurança<br>
+                    e praticidade
+                </h3>
+
+                <p>✓ Perfis verificados</p>
+                <p>✓ Pagamentos protegidos</p>
+                <p>✓ Suporte 24h</p>
+                <p>✓ Avaliações reais</p>
+
+                <a href="#">
+                    Saiba mais
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </div>
+
+        </aside>
+
+
+        <!-- =========================
+             CONTEÚDO DIREITO
+        ========================== -->
+        <div class="conteudo">
+
+            <!-- TOPO -->
+            <header class="topbar">
+
+                <button class="menu-mobile">
+                    <i class="fa-solid fa-bars"></i>
+                </button>
+
+                <div class="busca">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+
+                    <input
+                        type="text"
+                        placeholder="Digite o que você procura"
+                    >
+
+                    <button>Buscar</button>
+                </div>
+
+                <div class="top-icons">
+
+                    <div>
+                        <i class="fa-regular fa-heart"></i>
+                        <span>Favoritos</span>
+                    </div>
+
+                    <div class="notificacao">
+                        <i class="fa-regular fa-bell"></i>
+                        <span class="numero">3</span>
+                        <span>Notificações</span>
+                    </div>
+
+                    <div>
+                        <i class="fa-regular fa-comment-dots"></i>
+                        <span>Ajuda</span>
+                    </div>
+
+                </div>
+
+                <div class="perfil-topo">
+
+                    <img src="images/perfil.jpg" alt="Perfil">
+
+                    <div>
+                        <strong>Gustavo Mendes</strong>
+                        <span>Ver meu perfil</span>
+                    </div>
+
+                    <i class="fa-solid fa-chevron-down"></i>
+
+                </div>
+
+            </header>
+
+
+            <!-- =========================
+                 ÁREA PRINCIPAL
+            ========================== -->
+            <main class="principal">
+
+                <section class="centro">
+
+                    <!-- BANNER -->
+                    <div class="hero">
+
+                        <div class="hero-texto">
+
+                            <h1>
+                                Encontre o carro<br>
+                                ideal para você
+                            </h1>
+
+                            <p>
+                                Alugue com segurança e praticidade.
+                            </p>
+
+                            <button>
+                                Buscar carros
+                            </button>
+
+                        </div>
+
+                        <img
+                            src="images/polo.png"
+                            alt="Volkswagen Polo"
+                            class="hero-carro"
+                        >
+
+                        <div class="bolinhas">
+                            <span class="selecionada"></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+
+                    </div>
+
+
+                    <!-- CATEGORIAS -->
+                    <section class="categorias">
+
+                        <div class="categoria ativa">
+                            <i class="fa-solid fa-car"></i>
+                            <span>Todos</span>
+                        </div>
+
+                        <div class="categoria">
+                            <i class="fa-solid fa-car-side"></i>
+                            <span>Econômicos</span>
+                        </div>
+
+                        <div class="categoria">
+                            <i class="fa-solid fa-car"></i>
+                            <span>SUVs</span>
+                        </div>
+
+                        <div class="categoria">
+                            <i class="fa-solid fa-truck"></i>
+                            <span>Utilitários</span>
+                        </div>
+
+                        <div class="categoria">
+                            <i class="fa-solid fa-car-rear"></i>
+                            <span>Luxo</span>
+                        </div>
+
+                        <div class="categoria">
+                            <i class="fa-solid fa-bolt"></i>
+                            <span>Elétricos</span>
+                        </div>
+
+                    </section>
+
+
+                    <!-- CARROS -->
+                    <div class="titulo-secao">
+
+                        <h2>Carros disponíveis</h2>
+
+                        <a href="#">
+                            Ver todos
+                        </a>
+
+                    </div>
+
+
+                    <section class="carros">
+
+                        <!-- POLO -->
+                        <article class="card-carro">
+
+                            <div class="imagem-carro">
+
+                                <img
+                                    src="images/polo.png"
+                                    alt="Volkswagen Polo"
+                                >
+
+                                <button class="favorito">
+                                    <i class="fa-regular fa-heart"></i>
+                                </button>
+
+                            </div>
+
+                            <div class="card-conteudo">
+
+                                <h3>Volkswagen Polo 2025</h3>
+
+                                <span class="tag">
+                                    ⚙ Automático
+                                </span>
+
+                                <div class="info-preco">
+
+                                    <div>
+                                        <p>
+                                            Gasolina &nbsp;•&nbsp; 12.000 km
+                                        </p>
+
+                                        <p class="avaliacao">
+                                            ★ 4,8
+                                            <span>
+                                                (32 avaliações)
+                                            </span>
+                                        </p>
+                                    </div>
+
+                                    <div class="preco">
+
+                                        <strong>
+                                            <small>R$</small>
+                                            159
+                                            <small>/dia</small>
+                                        </strong>
+
+                                        <span>
+                                            R$ 1.113/semana
+                                        </span>
+
+                                    </div>
+
+                                </div>
+
+                                <button class="detalhes">
+                                    Ver detalhes
+                                </button>
+
+                            </div>
+
+                        </article>
+
+
+                        <!-- FORD KA -->
+                        <article class="card-carro">
+
+                            <div class="imagem-carro">
+
+                                <img
+                                    src="images/ford-ka.png"
+                                    alt="Ford Ka"
+                                >
+
+                                <button class="favorito">
+                                    <i class="fa-regular fa-heart"></i>
+                                </button>
+
+                            </div>
+
+                            <div class="card-conteudo">
+
+                                <h3>Ford Ka 2023</h3>
+
+                                <span class="tag">
+                                    ⚙ Automático
+                                </span>
+
+                                <div class="info-preco">
+
+                                    <div>
+
+                                        <p>
+                                            Flex &nbsp;•&nbsp; 18.500 km
+                                        </p>
+
+                                        <p class="avaliacao">
+                                            ★ 4,6
+                                            <span>
+                                                (28 avaliações)
+                                            </span>
+                                        </p>
+
+                                    </div>
+
+                                    <div class="preco">
+
+                                        <strong>
+                                            <small>R$</small>
+                                            129
+                                            <small>/dia</small>
+                                        </strong>
+
+                                        <span>
+                                            R$ 903/semana
+                                        </span>
+
+                                    </div>
+
+                                </div>
+
+                                <button class="detalhes">
+                                    Ver detalhes
+                                </button>
+
+                            </div>
+
+                        </article>
+
+
+                        <!-- COMPASS -->
+                        <article class="card-carro">
+
+                            <div class="imagem-carro">
+
+                                <img
+                                    src="images/compass.png"
+                                    alt="Jeep Compass"
+                                >
+
+                                <button class="favorito">
+                                    <i class="fa-regular fa-heart"></i>
+                                </button>
+
+                            </div>
+
+                            <div class="card-conteudo">
+
+                                <h3>Jeep Compass 2022</h3>
+
+                                <span class="tag">
+                                    ⚙ Automático
+                                </span>
+
+                                <div class="info-preco">
+
+                                    <div>
+
+                                        <p>
+                                            Diesel &nbsp;•&nbsp; 25.000 km
+                                        </p>
+
+                                        <p class="avaliacao">
+                                            ★ 4,9
+                                            <span>
+                                                (41 avaliações)
+                                            </span>
+                                        </p>
+
+                                    </div>
+
+                                    <div class="preco">
+
+                                        <strong>
+                                            <small>R$</small>
+                                            229
+                                            <small>/dia</small>
+                                        </strong>
+
+                                        <span>
+                                            R$ 1.603/semana
+                                        </span>
+
+                                    </div>
+
+                                </div>
+
+                                <button class="detalhes">
+                                    Ver detalhes
+                                </button>
+
+                            </div>
+
+                        </article>
+
+                    </section>
+
+
+                    <!-- BENEFÍCIOS -->
+                    <h2 class="porque">
+                        Por que escolher o Aluga-Car?
+                    </h2>
+
+                    <section class="beneficios">
+
+                        <div class="beneficio">
+
+                            <i class="fa-solid fa-shield-halved"></i>
+
+                            <div>
+                                <strong>Segurança</strong>
+                                <span>Locações 100% seguras</span>
+                            </div>
+
+                        </div>
+
+                        <div class="beneficio">
+
+                            <i class="fa-solid fa-star"></i>
+
+                            <div>
+                                <strong>Avaliações reais</strong>
+                                <span>Opiniões de quem já alugou</span>
+                            </div>
+
+                        </div>
+
+                        <div class="beneficio">
+
+                            <i class="fa-solid fa-headset"></i>
+
+                            <div>
+                                <strong>Suporte 24h</strong>
+                                <span>Atendimento dedicado</span>
+                            </div>
+
+                        </div>
+
+                        <div class="beneficio">
+
+                            <i class="fa-regular fa-credit-card"></i>
+
+                            <div>
+                                <strong>Pagamento seguro</strong>
+                                <span>Seus dados sempre protegidos</span>
+                            </div>
+
+                        </div>
+
+                    </section>
+
+                </section>
+
+
+                <!-- =========================
+                     COLUNA DIREITA
+                ========================== -->
+                <aside class="painel-direito">
+
+                    <!-- PERFIL -->
+                    <section class="perfil-card">
+
+                        <div class="perfil-cabecalho">
+
+                            <img
+                                src="images/perfil.jpg"
+                                alt="Gustavo Mendes"
+                            >
+
+                            <div>
+                                <h2>Gustavo Mendes</h2>
+                                <p>gustavo.mendes@email.com</p>
+
+                                <span>
+                                    Usuário desde 2024
+                                </span>
+                            </div>
+
+                            <button>
+                                <i class="fa-solid fa-pen"></i>
+                            </button>
+
+                        </div>
+
+
+                        <div class="perfil-resumo">
+
+                            <h3>Resumo da conta</h3>
+
+                            <div class="resumo-grid">
+
+                                <div>
+                                    <i class="fa-regular fa-calendar"></i>
+                                    <strong>3</strong>
+                                    <span>Aluguéis</span>
+                                </div>
+
+                                <div>
+                                    <i class="fa-regular fa-heart"></i>
+                                    <strong>7</strong>
+                                    <span>Favoritos</span>
+                                </div>
+
+                                <div>
+                                    <i class="fa-regular fa-star"></i>
+                                    <strong>12</strong>
+                                    <span>Avaliações</span>
+                                </div>
+
+                                <div>
+                                    <i class="fa-regular fa-comment-dots"></i>
+                                    <strong>5</strong>
+                                    <span>Mensagens</span>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </section>
+
+
+                    <!-- MEUS ALUGUÉIS -->
+                    <section class="painel-card">
+
+                        <div class="painel-titulo">
+
+                            <h3>Meus aluguéis</h3>
+                            <a href="#">Ver todos</a>
+
+                        </div>
+
+                        <div class="abas">
+
+                            <span class="ativa">Ativos</span>
+                            <span>Concluídos</span>
+                            <span>Cancelados</span>
+
+                        </div>
+
+                        <div class="aluguel-item">
+
+                            <img
+                                src="images/polo.png"
+                                alt="Polo"
+                            >
+
+                            <div class="aluguel-info">
+
+                                <strong>
+                                    Volkswagen Polo 2025
+                                </strong>
+
+                                <span class="andamento">
+                                    Em andamento
+                                </span>
+
+                                <p>
+                                    10/05/2026 a 15/05/2026
+                                </p>
+
+                                <p>
+                                    Total:
+                                    <strong>R$ 795,00</strong>
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                        <button class="ver-detalhes-aluguel">
+                            Ver detalhes
+                        </button>
+
+                    </section>
+
+
+                    <!-- FAVORITOS -->
+                    <section class="painel-card">
+
+                        <div class="painel-titulo">
+
+                            <h3>Favoritos</h3>
+                            <a href="#">Ver todos</a>
+
+                        </div>
+
+                        <div class="favorito-item">
+
+                            <img src="images/polo.png">
+
+                            <span>Volkswagen Polo 2025</span>
+
+                            <strong>R$ 159/dia</strong>
+
+                            <i class="fa-solid fa-heart"></i>
+
+                        </div>
+
+                        <div class="favorito-item">
+
+                            <img src="images/ford-ka.png">
+
+                            <span>Ford Ka 2023</span>
+
+                            <strong>R$ 129/dia</strong>
+
+                            <i class="fa-solid fa-heart"></i>
+
+                        </div>
+
+                        <div class="favorito-item">
+
+                            <img src="images/compass.png">
+
+                            <span>Jeep Compass 2022</span>
+
+                            <strong>R$ 229/dia</strong>
+
+                            <i class="fa-solid fa-heart"></i>
+
+                        </div>
+
+                    </section>
+
+                </aside>
+
+            </main>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
