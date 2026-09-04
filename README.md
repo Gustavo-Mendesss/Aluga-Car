@@ -441,10 +441,10 @@ O User Flow apresenta o fluxo de navegação dos usuários dentro da solução A
 
 #### Fluxo do usuário que deseja alugar
 
-(userflow-alugar.png)
+![User Flow - Usuário que deseja alugar](fuserflow-alugar.png)
 
 #### Fluxo do proprietário do veículo
 
-(userflow-proprietario.png)
+![User Flow - Proprietário do veículo](userflow-proprietario.png)
 
 
