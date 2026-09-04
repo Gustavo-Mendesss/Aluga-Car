@@ -432,3 +432,18 @@ https://www.abla.com.br/noticia/setor-de-locacao-de-veiculos-seguiu-em-crescimen
 durante-o-ultimo-ano--. Acesso em: 20 ago. 2026.
 
 
+## 4. Projeto de Interface
+
+### 4.1 User Flow
+
+O User Flow apresenta o fluxo de navegação dos usuários dentro da solução Aluga-Car, demonstrando as principais etapas realizadas para a utilização da plataforma.
+
+#### Fluxo do usuário que deseja alugar
+
+![User Flow - Usuário que deseja alugar](userflow-alugar.png)
+
+#### Fluxo do proprietário do veículo
+
+![User Flow - Proprietário do veículo](userflow-proprietario.png)
+
+
