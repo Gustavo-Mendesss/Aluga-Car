@@ -454,3 +454,19 @@ A seguir é apresentado o wireframe da interface principal do sistema Aluga-Car,
 ![Wireframe Aluga-Car](images/wireframe-aluga-car.png)
 
 
+## Referências Bibliográficas
+
+
+- IEEE COMPUTER SOCIETY. **Guide to the Software Engineering Body of Knowledge (SWEBOK Guide), Version 4.0**. 2024. Disponível em: <https://www.computer.org/education/bodies-of-knowledge/software-engineering>. Acesso em: 04 set. 2026.
+
+- SCHWABER, Ken; SUTHERLAND, Jeff. **The Scrum Guide: The Definitive Guide to Scrum**. 2020. Disponível em: <https://scrumguides.org/download.html>. Acesso em: 04 set. 2026.
+
+- FIGMA. **O que é um fluxo de usuário?** Disponível em: <https://www.figma.com/pt-br/resource-library/fluxo-de-usuario/>. Acesso em: 04 set. 2026.
+
+- FIGMA. **What is Prototyping in Design?** Disponível em: <https://www.figma.com/resource-library/what-is-prototyping/>. Acesso em: 04 set. 2026.
+
+- GITHUB. **Repositories Documentation**. Disponível em: <https://docs.github.com/en/repositories>. Acesso em: 04 set. 2026.
+
+- W3C. **Designing for Web Accessibility**. Disponível em: <https://www.w3.org/WAI/tips/designing/>. Acesso em: 04 set. 2026.
+
+
