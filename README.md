@@ -437,8 +437,11 @@ durante-o-ultimo-ano--. Acesso em: 20 ago. 2026.
 ### 3.1 Divisão de papéis
 
 Victor De Aquino Gomes Miguel: documentação e levantamento de requisitos.
+
 Gustavo Mendes Da Silva - Jeferson Oliveira Santos: desenvolvimento da interface e protótipo.
+
 Nathaly Nagem Araújo - Nicolas Brian Silva Bueno Horta: elaboração dos User Flows e organização do GitHub.
+
 Vinicius Gabriel Vaz Lomba: revisão da documentação e testes.
 
 ### 3.2 Processo
