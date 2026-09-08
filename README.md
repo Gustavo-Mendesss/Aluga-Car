@@ -171,31 +171,18 @@ durante-o-ultimo-ano--. Acesso em: 20 ago. 2026.
 
 ### 3.1 Divisão de papéis
 
-### Divisão das páginas do protótipo
+## Divisão de Tarefas e Páginas
 
-**Jeferson Oliveira Santos:**   
-- Página de Login  
-- Página de Cadastro de Usuário  
+A equipe do projeto **Aluga-Car** terá suas atividades divididas entre a elaboração da documentação, desenvolvimento do protótipo, organização do projeto e construção das páginas da interface.
 
-**Gustavo Mendes Da Silva:**  
-- Página Inicial / Dashboard  
-- Página de Busca de Veículos  
-
-**Victor De Aquino Gomes Miguel:**  
-- Página de Detalhes do Veículo  
-- Página de Solicitação de Locação  
-
-**Nathaly Nagem Araújo:**  
-- Página de Meus Aluguéis / Solicitações  
-- Página de Meus Veículos  
-
-**Nicolas Brian Silva Bueno Horta:**  
-- Página de Cadastro / Edição de Veículo  
-- Página de Solicitações Recebidas pelo Proprietário  
-
-**Vinicius Gabriel Vaz Lomba:**  
-- Página de Perfil do Usuário  
-- Página do Painel Administrativo
+| Integrante | Responsabilidade no Projeto | Páginas do Protótipo |
+|---|---|---|
+| **Victor De Aquino Gomes Miguel** | Documentação e levantamento de requisitos. | 1. Página de Login <br> 2. Página de Cadastro de Usuário |
+| **Gustavo Mendes Da Silva** | Desenvolvimento da interface e protótipo. | 3. Página Inicial / Dashboard <br> 4. Página de Busca de Veículos |
+| **Jeferson Oliveira Santos** | Desenvolvimento da interface e protótipo. | 5. Página de Detalhes do Veículo <br> 6. Página de Solicitação de Locação |
+| **Nathaly Nagem Araújo** | Elaboração dos User Flows e organização do GitHub. | 7. Página de Meus Aluguéis / Solicitações <br> 8. Página de Meus Veículos |
+| **Nicolas Brian Silva Bueno Horta** | Elaboração dos User Flows e organização do GitHub. | 9. Página de Cadastro / Edição de Veículo <br> 10. Página de Solicitações Recebidas |
+| **Vinicius Gabriel Vaz Lomba** | Revisão da documentação e testes. | 11. Página de Perfil do Usuário <br> 12. Página do Painel Administrativo |
   
 ### 3.2 Processo
 
