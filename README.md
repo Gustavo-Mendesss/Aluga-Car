@@ -196,7 +196,7 @@ durante-o-ultimo-ano--. Acesso em: 20 ago. 2026.
 **Vinicius Gabriel Vaz Lomba:**  
 - Página de Perfil do Usuário  
 - Página do Painel Administrativo
-- 
+  
 ### 3.2 Processo
 
 
