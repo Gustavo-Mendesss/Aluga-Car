@@ -259,10 +259,8 @@ problemas.
 |----|-------------------------|------------|
 | RNF01 | O sistema deverá possuir uma interface acessível para pessoas com dificuldades de visualização, utilizando textos legíveis, contraste adequado entre cores, possibilidade de ampliação do conteúdo e elementos visuais de fácil identificação. | Alta |
 | RNF02 | O sistema deverá proteger os dados dos usuários contra acessos não autorizados. | Alta |
-| RNF03 | O sistema deverá responder às principais operações em até 3 segundos, considerando condições normais de utilização. | Média |
-| RNF04 | O sistema deverá possuir disponibilidade mínima de 98% ao mês, exceto durante períodos previamente programados de manutenção. | Média |
-| RNF05 | O sistema deverá ser compatível com computadores e dispositivos móveis. | Alta |
-| RNF06 | O sistema deverá manter os dados cadastrados de forma íntegra e consistente. | Alta |
+| RNF03 | O sistema deverá ser compatível com computadores e dispositivos móveis. | Alta |
+| RNF04 | O sistema deverá manter os dados cadastrados de forma íntegra e consistente. | Alta |
 
 # 3. Referências Bibliográficas
 
