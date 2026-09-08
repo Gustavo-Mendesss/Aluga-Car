@@ -107,130 +107,24 @@ interessados em alugar veículos.
 
 ## 2.1 Perfis de Usuários
 
-
-### Perfil 1 – Proprietário do veículo
-
-**Descrição:**  
-Pessoa que possui um veículo e deseja disponibilizá-lo para locação por meio da plataforma. Pode cadastrar informações do veículo, definir valores e períodos disponíveis e acompanhar as solicitações de aluguel.
-
-**Necessidades:**  
-Cadastrar e gerenciar veículos; informar disponibilidade e valores; receber e analisar solicitações; acompanhar locações; consultar informações dos usuários; ter segurança e transparência durante as negociações.
-
-
-### Perfil 2 – Locatário
-
-**Descrição:**  
-Pessoa que necessita de um veículo por determinado período e utiliza a plataforma para pesquisar, comparar e solicitar a locação de veículos disponíveis. Pode utilizar o veículo para necessidades pessoais, profissionais ou trabalho com aplicativos.
-
-**Necessidades:**  
-Pesquisar veículos disponíveis; visualizar informações, valores e condições; comparar opções; realizar solicitações de locação; acompanhar reservas; ter acesso a informações claras sobre o veículo e as condições do aluguel.
-
-
-### Perfil 3 – Administrador do sistema
-
-**Descrição:**  
-Responsável pelo gerenciamento e acompanhamento da plataforma. Possui acesso às informações necessárias para administrar usuários, veículos, anúncios e locações, garantindo o funcionamento adequado do sistema.
-
-**Necessidades:**  
-Gerenciar usuários e veículos cadastrados; acompanhar locações; verificar informações e ocorrências; administrar conteúdo da plataforma; identificar problemas e garantir o funcionamento e a segurança do sistema.
+| Perfil | Descrição | Necessidades |
+|---|---|---|
+| Proprietário do veículo | Pessoa que possui um veículo e deseja disponibilizá-lo para locação por meio da plataforma. Pode cadastrar informações do veículo, definir valores e períodos disponíveis e acompanhar as solicitações de aluguel. | Cadastrar e gerenciar veículos; informar disponibilidade e valores; receber e analisar solicitações; acompanhar locações; consultar informações dos usuários; ter segurança e transparência durante as negociações. |
+| Locatário | Pessoa que necessita de um veículo por determinado período e utiliza a plataforma para pesquisar, comparar e solicitar a locação de veículos disponíveis. Pode utilizar o veículo para necessidades pessoais, profissionais ou trabalho com aplicativos. | Pesquisar veículos disponíveis; visualizar informações, valores e condições; comparar opções; realizar solicitações de locação; acompanhar reservas; ter acesso a informações claras sobre o veículo e as condições do aluguel. |
+| Administrador do sistema | Responsável pelo gerenciamento e acompanhamento da plataforma. Possui acesso às informações necessárias para administrar usuários, veículos, anúncios e locações, garantindo o funcionamento adequado do sistema. | Gerenciar usuários e veículos cadastrados; acompanhar locações; verificar informações e ocorrências; administrar conteúdo da plataforma; identificar problemas e garantir o funcionamento e a segurança do sistema. |
 
 ## 2.2 Histórias de Usuários
 
-
-Proprietário do veículo 
- 
-Cadastrar meu veículo na plataforma, 
-informando suas características, valor 
-e disponibilidade. 
- 
-Disponibilizá-lo para 
-locação de forma 
-organizada. 
- 
-Proprietário do veículo 
- 
-Visualizar e gerenciar as solicitações 
-de locação recebidas. 
- 
-Decidir quais 
-solicitações desejo 
-aceitar. 
-
- 
-Locatário 
- 
- 
-Criar uma conta e informar meus dados 
-na plataforma. 
- 
- 
-Poder utilizar os recursos de 
-pesquisa e locação de veículos. 
- 
- 
-Locatário 
- 
- 
-Pesquisar veículos disponíveis e 
-visualizar suas informações, valores e 
-condições. 
- 
-Encontrar uma opção adequada 
-às minhas necessidades e ao meu 
-orçamento. Decidir quais 
-solicitações desejo aceitar. 
- 
- 
-Locatário 
- 
- 
-Solicitar a locação de um 
-veículo para um período 
-específico. 
- 
- 
- 
-Ter acesso a um veículo durante o 
-período necessário. 
- 
- 
-Locatário 
- 
-Acompanhar o status da minha 
-solicitação de locação. 
- 
-Saber se a solicitação foi aceita e 
-consultar as informações da 
-reserva. 
- 
- 
-Administrador 
- 
- 
- 
-Gerenciar os usuários e veículos 
-cadastrados na plataforma. 
- 
-   Manter os dados organizados e 
-garantir o funcionamento adequado do 
-sistema. Poder utilizar os recursos de 
-pesquisa e locação de veículos. Criar 
-uma conta e informar meus dados na 
-plataforma. 
- 
-   
-  
-Administrador 
- 
- 
- 
-Acompanhar as locações 
-realizadas pela plataforma. 
-   
- 
- Auxiliar no controle das operações e 
-na identificação de possíveis 
-problemas.
+| Eu como... | Quero/Desejo... | Para... |
+|---|---|---|
+| Proprietário do veículo | Cadastrar meu veículo na plataforma, informando suas características, valor e disponibilidade. | Disponibilizá-lo para locação de forma organizada. |
+| Proprietário do veículo | Visualizar e gerenciar as solicitações de locação recebidas. | Decidir quais solicitações desejo aceitar ou recusar. |
+| Locatário | Criar uma conta e informar meus dados na plataforma. | Poder utilizar os recursos de pesquisa e locação de veículos. |
+| Locatário | Pesquisar veículos disponíveis e visualizar suas informações, valores e condições. | Encontrar uma opção adequada às minhas necessidades e ao meu orçamento. |
+| Locatário | Solicitar a locação de um veículo para um período específico. | Ter acesso a um veículo durante o período necessário. |
+| Locatário | Acompanhar o status da minha solicitação de locação. | Saber se a solicitação foi aceita e consultar as informações da reserva. |
+| Administrador | Gerenciar os usuários e veículos cadastrados na plataforma. | Manter os dados organizados e garantir o funcionamento adequado do sistema. |
+| Administrador | Acompanhar as locações realizadas pela plataforma. | Auxiliar no controle das operações e na identificação de possíveis problemas. |
 
 
 ### 2.3.1 Requisitos Funcionais
