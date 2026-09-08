@@ -257,7 +257,8 @@ problemas.
 
 | ID | Descrição do Requisito | Prioridade |
 |----|-------------------------|------------|
-| RNF01 | O sistema deverá possuir uma interface acessível para pessoas com dificuldades de visualização, utilizando textos legíveis, contraste adequado entre cores, possibilidade de ampliação do conteúdo e elementos visuais de fácil identificação. | Alta |
+| RNF01 | O sistema deverá possuir uma interface acessível para pessoas com dificuldades de visualização, utilizando textos legíveis,
+contraste adequado entre cores, possibilidade de ampliação do conteúdo e elementos visuais de fácil identificação. | Alta |
 | RNF02 | O sistema deverá proteger os dados dos usuários contra acessos não autorizados. | Alta |
 | RNF03 | O sistema deverá ser compatível com computadores e dispositivos móveis. | Alta |
 | RNF04 | O sistema deverá manter os dados cadastrados de forma íntegra e consistente. | Alta |
