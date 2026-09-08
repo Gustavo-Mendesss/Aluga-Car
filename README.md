@@ -230,12 +230,80 @@ O User Flow apresenta o fluxo de navegação dos usuários dentro da solução A
 
 ![User Flow - Proprietário do veículo](images/userflow-proprietario..png)
 
-## Wireframe
 
-A seguir é apresentado o wireframe da interface principal do sistema Aluga-Car, demonstrando a organização dos principais elementos e funcionalidades da plataforma.
+## Wireframes
 
-![Wireframe Aluga-Car](images/wireframe-aluga-car.png)
+A seguir são apresentados os wireframes das principais páginas da plataforma Aluga-Car, demonstrando a estrutura, organização dos elementos e fluxo das funcionalidades do sistema.
 
+### 1. Login
+
+![Wireframe - Login](images/01-login.png)
+
+---
+
+### 2. Cadastro de Usuário
+
+![Wireframe - Cadastro de Usuário](images/02-cadastro-usuario.png)
+
+---
+
+### 3. Página Inicial / Dashboard
+
+![Wireframe - Página Inicial](images/03-pagina-inicial.png)
+
+---
+
+### 4. Busca de Veículos
+
+![Wireframe - Busca de Veículos](images/04-busca-veiculos.png)
+
+---
+
+### 5. Detalhes do Veículo
+
+![Wireframe - Detalhes do Veículo](images/05-detalhes-veiculo.png)
+
+---
+
+### 6. Solicitação de Locação
+
+![Wireframe - Solicitação de Locação](images/06-solicitacao-locacao.png)
+
+---
+
+### 7. Meus Aluguéis / Solicitações
+
+![Wireframe - Meus Aluguéis](images/07-meus-alugueis.png)
+
+---
+
+### 8. Meus Veículos
+
+![Wireframe - Meus Veículos](images/08-meus-veiculos.png)
+
+---
+
+### 9. Cadastro / Edição de Veículo
+
+![Wireframe - Cadastro e Edição de Veículo](images/09-cadastro-edicao-veiculo.png)
+
+---
+
+### 10. Solicitações Recebidas
+
+![Wireframe - Solicitações Recebidas](images/10-solicitacoes-recebidas.png)
+
+---
+
+### 11. Perfil do Usuário
+
+![Wireframe - Perfil do Usuário](images/11-perfil-usuario.png)
+
+---
+
+### 12. Painel Administrativo
+
+![Wireframe - Painel Administrativo](images/12-painel-administrativo.png)
 
 ## Referências Bibliográficas
 
