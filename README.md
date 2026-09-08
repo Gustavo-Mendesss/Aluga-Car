@@ -233,167 +233,36 @@ na identificação de possíveis
 problemas.
 
 
-
-## 2.3 Requisitos do Projeto
-
 ### 2.3.1 Requisitos Funcionais
 
-
-RF01 
- 
-O sistema deverá permitir que o proprietário cadastre um veículo 
-na plataforma. 
- 
-Alta 
- 
-RF02 
- 
-O sistema deverá permitir que o proprietário informe as 
-características do veículo cadastrado. 
- 
-Alta 
- 
-RF03 
- 
-O sistema deverá permitir que o proprietário informe o valor da 
-locação do veículo. 
- 
-Alta 
- 
-RF04 
- 
-O sistema deverá permitir que o proprietário informe os períodos 
-de disponibilidade do veículo. 
- 
-Alta 
- 
-RF05 
- 
-O sistema deverá permitir que o proprietário visualize as 
-solicitações de locação recebidas. 
- 
-Alta 
- 
-RF06 
- 
-O sistema deverá permitir que o proprietário aceite ou recuse uma 
-solicitação de locação. 
- 
-Alta 
-   
- 
-RF07 
- 
-O sistema deverá permitir que o locatário crie uma conta na 
-plataforma. 
- 
-Alta 
- 
-RF08 
- 
-O sistema deverá permitir que o locatário pesquise veículos 
-disponíveis para locação. 
- 
-Alta 
- 
-RF09 
- 
-O sistema deverá permitir que o locatário consulte as informações 
-dos veículos disponíveis. 
- 
-Alta 
- 
-RF10 
- 
-O sistema deverá permitir que o locatário solicite a locação de um 
-veículo. 
- 
-Alta 
- 
-RF11 
- 
-O sistema deverá permitir que o locatário informe o período 
-desejado para a locação. 
- 
-Alta 
- 
-RF12 
- 
-O sistema deverá permitir que o locatário acompanhe o status de 
-sua solicitação. 
- 
-Média 
- 
-RF13 
- 
-O sistema deverá permitir que o administrador gerencie os 
-usuários cadastrados. 
- 
-Média 
- 
-RF14 
- 
-O sistema deverá permitir que o administrador gerencie os 
-veículos cadastrados. 
- 
-Média 
- 
-RF15 
- 
-O sistema deverá permitir que o administrador acompanhe as 
-locações realizadas na plataforma. 
- 
-Média
+| ID | Descrição do Requisito | Prioridade |
+|----|-------------------------|------------|
+| RF01 | O sistema deverá permitir que o proprietário cadastre um veículo na plataforma. | Alta |
+| RF02 | O sistema deverá permitir que o proprietário informe as características do veículo cadastrado. | Alta |
+| RF03 | O sistema deverá permitir que o proprietário informe o valor da locação do veículo. | Alta |
+| RF04 | O sistema deverá permitir que o proprietário informe os períodos de disponibilidade do veículo. | Alta |
+| RF05 | O sistema deverá permitir que o proprietário visualize as solicitações de locação recebidas. | Alta |
+| RF06 | O sistema deverá permitir que o proprietário aceite ou recuse uma solicitação de locação. | Alta |
+| RF07 | O sistema deverá permitir que o locatário crie uma conta na plataforma. | Alta |
+| RF08 | O sistema deverá permitir que o locatário pesquise veículos disponíveis para locação. | Alta |
+| RF09 | O sistema deverá permitir que o locatário consulte as informações dos veículos disponíveis. | Alta |
+| RF10 | O sistema deverá permitir que o locatário solicite a locação de um veículo. | Alta |
+| RF11 | O sistema deverá permitir que o locatário informe o período desejado para a locação. | Alta |
+| RF12 | O sistema deverá permitir que o locatário acompanhe o status de sua solicitação. | Média |
+| RF13 | O sistema deverá permitir que o administrador gerencie os usuários cadastrados. | Média |
+| RF14 | O sistema deverá permitir que o administrador gerencie os veículos cadastrados. | Média |
+| RF15 | O sistema deverá permitir que o administrador acompanhe as locações realizadas na plataforma. | Média |
 
 ### 2.3.2 Requisitos Não Funcionais
 
-
-RNF01 
-O sistema deverá possuir uma interface acessível para 
-pessoas com dificuldades de visualização, utilizando textos 
-legíveis, contraste adequado entre cores, possibilidade de 
-ampliação do conteúdo e elementos visuais de fácil 
-identificação.  
- 
- 
-Alta 
- 
-RNF02 
- 
-O sistema deverá proteger os dados dos usuários contra 
-acessos não autorizados. 
- 
-Alta 
- 
-RNF03 
- 
-O sistema deverá responder às principais operações em até 3 
-segundos, considerando condições normais de utilização. 
- 
-Média 
- 
-RNF04 
- 
-O sistema deverá possuir disponibilidade mínima de 98% ao 
-mês, exceto durante períodos previamente programados de 
-manutenção. 
- 
-Média 
- 
-RNF05 
- 
-O sistema deverá ser compatível com computadores e 
-dispositivos móveis. 
- 
-Alta 
- 
-RNF06 
- 
-O sistema deverá manter os dados cadastrados de forma 
-íntegra e consistente. 
- 
-Alta
-
+| ID | Descrição do Requisito | Prioridade |
+|----|-------------------------|------------|
+| RNF01 | O sistema deverá possuir uma interface acessível para pessoas com dificuldades de visualização, utilizando textos legíveis, contraste adequado entre cores, possibilidade de ampliação do conteúdo e elementos visuais de fácil identificação. | Alta |
+| RNF02 | O sistema deverá proteger os dados dos usuários contra acessos não autorizados. | Alta |
+| RNF03 | O sistema deverá responder às principais operações em até 3 segundos, considerando condições normais de utilização. | Média |
+| RNF04 | O sistema deverá possuir disponibilidade mínima de 98% ao mês, exceto durante períodos previamente programados de manutenção. | Média |
+| RNF05 | O sistema deverá ser compatível com computadores e dispositivos móveis. | Alta |
+| RNF06 | O sistema deverá manter os dados cadastrados de forma íntegra e consistente. | Alta |
 
 # 3. Referências Bibliográficas
 
