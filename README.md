@@ -285,11 +285,13 @@ Vinicius Gabriel Vaz Lomba: revisão da documentação e testes.
 
 ### 3.2 Processo
 
-O desenvolvimento do projeto Aluga-Car será realizado de forma colaborativa, dividido em etapas. Inicialmente, a equipe realizará o levantamento e a análise do problema e dos requisitos. Em seguida, serão elaborados os fluxos de navegação e o protótipo da solução. Após a definição da interface, a equipe realizará a implementação e os testes da aplicação. Durante o desenvolvimento, serão realizadas reuniões para acompanhar o progresso, identificar problemas e revisar as atividades realizadas.
 
-Simplificando:
+O desenvolvimento do projeto Aluga-Car será realizado por meio de um processo incremental e iterativo, organizado em etapas. Inicialmente, será realizado o levantamento do problema e dos requisitos. Em seguida, serão desenvolvidos os fluxos de navegação e o protótipo da solução. Posteriormente, serão realizadas a implementação, os testes e a revisão das funcionalidades.
+
+Durante o desenvolvimento, a equipe realizará reuniões periódicas para acompanhar o progresso, identificar problemas e revisar as atividades, permitindo melhorias ao longo do projeto.
 
 Levantamento → Requisitos → User Flow → Protótipo → Desenvolvimento → Testes → Revisão
+
 
 ### 3.3 Ferramentas
 
